@@ -1,0 +1,21 @@
+:root {
+  --azul-gen: #3680d7;
+  --naranja-gen: #ff8e2d;
+  --blanco-gen: #f3f3f3;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'DM Sans', sans-serif;
+}
+
+main {
+  margin-top: 60px;
+  background-color: var(--blanco-gen);
+}
